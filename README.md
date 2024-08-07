@@ -2,7 +2,7 @@
 
 This program implements the Extended Euclidean Algorithm to compute the greatest common divisor (GCD) of two integers 'x' and 'n'. It also finds the modular inverse of 'x' modulo 'n' if it exists.
 
-**Usage**
+**Usage:**
 
 Input Values:
 When prompted, enter the values for 'x' and 'n'.
